@@ -144,9 +144,8 @@ img
     }
 .navbar-default .navbar-brand
     {
-        background: -webkit-linear-gradient(left, rgb(128, 39, 230) 0%, rgb(203, 97, 235) 50%, rgb(248, 50, 149) 100%);
-        color:transparent;
-	background-clip: text;
+        color: #B28DFF;
+      
         font-size: 30px;
         font-weight: bold;
         height: 70px;
